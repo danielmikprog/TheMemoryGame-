@@ -1,0 +1,33 @@
+
+body {
+  background-color: purple;
+}
+
+h1
+{
+ font-style: italic;
+  font-size: 6rem;
+  color:white;
+  text-align: center;
+  margin: 20px;
+}
+
+h2
+
+  {
+   font-style: italic;
+    font-size: 5rem;
+    color:white;
+    text-align: center;
+    margin: 20px;
+  }
+
+  #game div {
+  
+    display: inline-block;
+    border: 8px solid black;
+    width: 275px;
+    height: 275px;
+    margin: 15px;
+   
+  }
